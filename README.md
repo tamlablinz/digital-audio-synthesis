@@ -1,2 +1,2 @@
-# digital-audio-synthesis
-Code repository for digital-audio-synthesis
+# digital-sound-synthesis
+Code repository for digital-sound-synthesis in Pure Data
